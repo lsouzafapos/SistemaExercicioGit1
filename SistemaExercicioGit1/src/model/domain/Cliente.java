@@ -1,4 +1,4 @@
-package br.com.SistemaExercicioGit1;
+package model.domain;
 
 public class Cliente {
 
